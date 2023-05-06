@@ -3,7 +3,8 @@ package main
 import day_2023_05 "question_daily/day_2023_5"
 
 func main() {
-	day_2023_05.Day_2023_05_01()
+	// day_2023_05.Day_2023_05_01()
+	day_2023_05.Day_2023_05_03()
 
 	// day_2023_01.Day_2023_01_19()
 	// day_2023_01.Day_2023_01_21()
