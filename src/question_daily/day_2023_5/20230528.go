@@ -15,6 +15,6 @@ func Day_2023_05_28() {
 	/**
 	BD
 	知识点是 nil
-	nil 只能赋值给指针、chan、func、interface、map 或 slice 类型的变量。
+	nil 只能赋值给  指针、chan、func、interface、map 或 slice 类型的变量。
 	*/
 }
