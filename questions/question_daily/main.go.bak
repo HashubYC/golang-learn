@@ -1,12 +1,13 @@
 package main
 
 // import day_2023_06 "question_daily/day_2023_6"
-import day_2023_07 "question_daily/day_2023_7"
+import day_2023_07 "questions/question_daily/day_2023_7"
 
 func main() {
 	// day_2023_07.Day_2023_07_03()
 	// day_2023_07.Day_2023_07_04()
-	day_2023_07.Day_2023_07_10()
+	// day_2023_07.Day_2023_07_10()
+	day_2023_07.Day_2023_07_13()
 
 	// day_2023_06.Day_2023_06_02()
 	// day_2023_06.Day_2023_06_08()
