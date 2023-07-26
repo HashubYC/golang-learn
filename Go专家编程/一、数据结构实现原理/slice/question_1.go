@@ -2,7 +2,7 @@ package slice
 
 import "fmt"
 
-func main() {
+func slice_1() {
 	var array [5]int
 	var slice = array[2:3]
 

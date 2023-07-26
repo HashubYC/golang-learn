@@ -1,6 +1,5 @@
 package slice
 
-
-func main() {
+func slice_3() {
 
 }
